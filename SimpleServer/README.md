@@ -1,14 +1,10 @@
-# DockerWebServer
-A simple web server in go programming language which is being running on a docker container.
-
-## Installation
-```sh
-$ git clone https://github.com/suvidsahay/DockerWebServer.git
-$ cd DockerWebServer
-```
+# SimpleWebServer
+A simple web server in go programming language which is being run on a docker container.
 
 ## Usage
 ```sh
+$ cd <path/to/the/repository>
+$ cd SimpleServer
 $ docker build -t <username>/<image-name> .
 $ docker run -p 8080:8080 <username>/<image-name>
 ```
