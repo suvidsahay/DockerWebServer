@@ -3,9 +3,9 @@ A simple web server in go programming language which is being run on a docker co
 
 ## Usage
 ```sh
-$ cd <path/to/the/repository>
-$ cd VisitCountServer
-$ docker-compose up
+cd <path/to/the/repository>
+cd VisitCountServer
+docker-compose up
 ```
 
 Open your browser and goto localhost:8080
