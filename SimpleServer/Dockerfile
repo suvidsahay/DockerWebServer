@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:onbuild
 
 RUN mkdir /app
 COPY . /app
