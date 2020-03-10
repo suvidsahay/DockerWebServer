@@ -9,4 +9,3 @@ docker build -t <username>/<image-name> .
 docker run -p 8081:8081 <username>/<image-name>
 ```
 Open your browser and goto localhost:8081
-
