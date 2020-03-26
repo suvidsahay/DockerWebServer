@@ -1,5 +1,5 @@
 # SimpleWebServer
-A simple web server in go programming language which is being run on a docker container.
+A simple web server in go programming language running on a docker container.
 
 ## Usage
 ```sh
